@@ -1,0 +1,21 @@
+{
+  "name": "zt-licensing",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "command.js": "0.0.1",
+    "discord.js": "github:discordjs/discord.js",
+    "dotenv": "^8.2.0",
+    "edit-json-file": "^1.4.1",
+    "express": "^4.17.1",
+    "noblox.js": "^4.8.2",
+    "node-js": "^1.0.0",
+    "randomstring": "1.1.5",
+    "shelljs": "^0.8.4",
+    "constant": "discord.js/src/util/Constants.js"
+  }
+}
